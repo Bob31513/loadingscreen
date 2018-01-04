@@ -122,8 +122,8 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Victor is gay",
-	"Victor is gay",
+	"Come join Our server we will greet you with big arms! BANANA RP!",
+	"Victor is our most Dedicated Dev!",
 ];
 
 /*Random message order?
