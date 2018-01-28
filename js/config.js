@@ -125,7 +125,7 @@ var l_messages = [
 	"Come join Our server we will greet you with big arms! BANANA RP!",
 	"Downloading Addons may take 5-10 mins please wait.",
 	"if you have missing textures or errors on the server Please make sure to still download our collection before joining.",
-	"Our Scp rp server is not "Cringy" "Stupid" INFACT WE WILL TREAT EVERY PLAYER WITH RESPECT!",
+	"Remember Our Scp rp server is not stupid cringy none of that shit... INFACT WE WILL TREAT EVERY PLAYER WITH RESPECT!",
 ];
 
 /*Random message order?
