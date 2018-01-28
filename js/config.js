@@ -105,7 +105,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{ogg: "Glenn_Leroi_-_SCP_song_medley_mp3_pm_.ogg"},
+	{ogg: "Blue_Feather_Extended_Mp3Converter_net_.ogg"},
 ];
 
 /*Random music order?
