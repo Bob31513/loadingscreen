@@ -122,10 +122,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Come join Our server we will greet you with big arms! BANANA RP!",
-	"Downloading Addons may take 5-10 mins please wait.",
-	"if you have missing textures or errors on the server Please make sure to still download our collection before joining.",
-	"Remember Our Scp rp server is not stupid cringy none of that shit... INFACT WE WILL TREAT EVERY PLAYER WITH RESPECT!",
+	"Welcome to internal gaming join our discord at https://discord.gg/2BagYbV,
+	"Downloading addons may take a 5-10 mins also make sure to download our collection by joining our discord",
+	"Join our teamspeak at TS 50.3.86.104.",
+	"",
 ];
 
 /*Random message order?
