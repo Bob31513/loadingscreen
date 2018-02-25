@@ -122,7 +122,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Welcome to internal gaming join our discord at https://discord.gg/2BagYbV,
+	"Welcome to internal gaming join our discord When you join the server
 	"Downloading addons may take a 5-10 mins also make sure to download our collection by joining our discord",
 	"Join our teamspeak From our discord.",
 	"",
