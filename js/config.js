@@ -124,7 +124,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Welcome to internal gaming join our discord at https://discord.gg/2BagYbV,
 	"Downloading addons may take a 5-10 mins also make sure to download our collection by joining our discord",
-	"Join our teamspeak at TS 50.3.86.104.",
+	"Join our teamspeak From our discord.",
 	"",
 ];
 
